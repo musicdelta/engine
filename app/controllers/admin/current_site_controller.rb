@@ -9,7 +9,7 @@ module Admin
 
     skip_load_and_authorize_resource
 
-    load_and_authorize_resource :class => 'Site'
+    load_and_authorize_resource :site, :class => 'Site'
 
     respond_to :json, :only => :update
 
