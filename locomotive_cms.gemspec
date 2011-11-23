@@ -67,8 +67,6 @@ Gem::Specification.new do |s|
                         '{public}/stylesheets/admin/**/*', '{public}/javascripts/admin/**/*', '{public}/images/admin/**/*',
                         '{vendor}/**/*']
 
-  s.require_path = 'lib'
-
   s.extra_rdoc_files = [
     'LICENSE',
      'README.textile'
