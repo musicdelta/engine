@@ -21,7 +21,7 @@ gem 'haml', '3.1.2'
 gem 'sass', '3.1.2'
 gem 'locomotive_liquid', '2.2.2', :require => 'liquid'
 gem 'formtastic', '~> 1.2.3'
-gem 'inherited_resources', '~> 1.1.2'
+gem 'inherited_resources', '~> 1.3.0'
 
 gem 'rmagick', '2.12.2', :require => 'RMagick'
 gem 'carrierwave', '0.5.6'
